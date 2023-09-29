@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1629665910 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\dominios.cpp
+	"dominios.h"
+	<vector>
+	<string>
+	<iostream>
+	<stdio.h>
+
+1629660028 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\dominios.h
+	<stdexcept>
+	<string>
+
+1631574985 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\entidades.cpp
+	"entidades.h"
+
+1629665141 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\entidades.h
+	"dominios.h"
+	<string>
+
+1622670738 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\controladorasservico.cpp
+	"controladorasservico.h"
+
+1632423856 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\controladorasservico.h
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1632427541 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\interfaces.h
+	"dominios.h"
+	"entidades.h"
+
+1632436706 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\controladorasapresentacao.cpp
+	"controladorasapresentacao.h"
+
+1632436803 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\controladorasapresentacao.h
+	<conio.h>
+	<iostream>
+	<string.h>
+	"dominios.h"
+	"entidades.h"
+	"interfaces.h"
+
+1603864424 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+	<stdbool.h>
+
+1632427021 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\stubs.cpp
+	"stubs.h"
+
+1632427211 f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\stubs.h
+	<string>
+	"dominios.h"
+	"interfaces.h"
+
+1632427445 source:f:\programa\tecnicas de programação 1 - projeto 2\trabalho2\main.cpp
+	<string.h>
+	<stdexcept>
+	<iostream>
+	"dominios.h"
+	"interfaces.h"
+	"controladorasapresentacao.h"
+	"stubs.h"
+

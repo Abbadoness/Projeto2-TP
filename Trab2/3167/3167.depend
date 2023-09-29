@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640894521 source:f:\programa\tecnicas de programação 1 - projeto 2\trab2\3167\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
